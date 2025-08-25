@@ -101,7 +101,7 @@ I love solving complex engineering challenges and mentoring teams to build **cle
 
 - 📍 Mumbai, India  
 - ✉️ [Email](mailto:saravadeo@yahoo.com)  
-- 🔗 [LinkedIn](https://tinyurl.com/onkarsaravade)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/onkar-sarvade-4b36ab63/)  
 - 🌐 [Portfolio Website](https://saravadeo.github.io/react-website/)  
 
 ---
